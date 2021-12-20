@@ -22,6 +22,6 @@ Template for the micro:bit servo project.
 
 | Item | Description |
 | --- | --- |
-| Design | Circut board with servos wired and hot-glued to the board |
+| Design | Circut board with servos wired and hot-glued to the board. The servos rotate at the same time, but one rotates slightly more to make the robot walk. |
 | Code | https://github.com/psb-2021-2022-s1-autonomous-robotics/walking_robot/blob/main/Code.py |
 | Tradeoffs (why?) | WHAT CHOICES DID YOU MAKE AND WHY? |
